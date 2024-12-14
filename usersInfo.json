@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "user_id": "SET USET ID HERE",
+    "token_bearer": "SET BEARER HERE"
+  },
+  {
+    "id": 2,
+    "user_id": "SET USET ID HERE",
+    "token_bearer": "SET BEARER HERE"
+  }
+// set as more as you wish (delete  this line)
+]
